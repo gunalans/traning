@@ -33,10 +33,10 @@ int main()
       
       
   }
-  for(k=0;k<=5;k++)
+  for(k=0;k<=n;k++)
   {
     printf("\ncurrent level:%d",k);
-    if(k==5)
+    if(k==n)
     {
         printf("\ntank is full");
     }
